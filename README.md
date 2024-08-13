@@ -24,6 +24,8 @@
     - [SMS Frequently Asked Questions (FAQ)](#sms-faq)
 - [Two way WhatsApp](#two-way-whatsapp)
     - [Register for a WABA account](#register-for-a-waba-account)
+    - [Connect to Mocean API](#connect-to-mocean-api)
+    - [Add test number](#add-test-number)
     - [WhatsApp prerequisites](#whatsapp-prerequisites)
     - [Send WhatsApp Message Template](#send-whatsapp-message-template)
     - [Send WhatsApp Media](#send-whatsapp-media)
@@ -286,6 +288,19 @@ Below are some general guidelines / best practices you can follow:
 Start the whatsapp business registration process [here](https://dashboard.moceanapi.com/whatsapp/register)
 
 To try out a test WhatsApp account, contact sales [here](mailto:sookchin@moceansms.com)
+
+### Connect to Mocean API
+
+1. You will need to `Connect your monday.com account to MoceanAPI`
+2. Navigate to `Update API Credentials page`
+3. Click on `Connect MoceanAPI`
+4. Continue the process until you're redirected back to the `Update API Credentials page`
+
+### Add test number
+
+1. Login to your mocean dashboard account
+2. Go to `Test Numbers`
+3. Enter your phone number and click add
 
 ### Usage
 
